@@ -1,0 +1,53 @@
+Performance Analysis Results
+==========================
+
+Test 1:
+Percentage of pixels kept: 10%
+Number of pixels: 79
+Validation accuracy: 92.98%
+
+Test 2:
+Percentage of pixels kept: 20%
+Number of pixels: 157
+Validation accuracy: 95.60%
+
+Test 3:
+Percentage of pixels kept: 30%
+Number of pixels: 235
+Validation accuracy: 96.69%
+
+Test 4:
+Percentage of pixels kept: 40%
+Number of pixels: 314
+Validation accuracy: 97.11%
+
+Test 5:
+Percentage of pixels kept: 50%
+Number of pixels: 392
+Validation accuracy: 97.14%
+
+Test 6:
+Percentage of pixels kept: 60%
+Number of pixels: 470
+Validation accuracy: 97.29%
+
+Test 7:
+Percentage of pixels kept: 70%
+Number of pixels: 549
+Validation accuracy: 97.38%
+
+Test 8:
+Percentage of pixels kept: 80%
+Number of pixels: 627
+Validation accuracy: 97.27%
+
+Test 9:
+Percentage of pixels kept: 90%
+Number of pixels: 705
+Validation accuracy: 97.31%
+
+Test 10:
+Percentage of pixels kept: 100%
+Number of pixels: 748
+Validation accuracy: 97.42%
+
